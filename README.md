@@ -13,6 +13,10 @@ A deep learning project that detects **cracks in walls and concrete structures**
 
 ---
 
+## 🧠 training Plots
+![training_plot](https://github.com/user-attachments/assets/d2283e8d-4aa6-4514-af59-d2e359de5019)
+
+
 ## 🧠 How the Model Works
 
 ### ✅ Input
