@@ -113,6 +113,8 @@ Sample Output & 🤝 Contributing
 ``🧱 Crack detected (Confidence: 0.93)
 ✅ No crack detected (Confidence: 0.95)``
 
+```
+
 💡 Want to Improve It?
 You can:
 
