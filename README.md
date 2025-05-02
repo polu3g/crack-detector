@@ -29,6 +29,9 @@ A deep learning project that detects **cracks in walls and concrete structures**
 - **Custom Layers**:
   - GlobalAveragePooling
   - Dense(1, sigmoid) → outputs crack probability
+ 
+![image](https://github.com/user-attachments/assets/c7f9fa97-1259-42a0-a7eb-8c530a693af8)
+
 
 ### 🔁 Learning Process
 - Loss: `Binary Crossentropy`
